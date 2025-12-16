@@ -307,30 +307,8 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 - [ ] Implement caching for inference optimization
 - [ ] Create REST API for model serving
 
-## 📝 License
-
-This project is open-source and available under the MIT License.
-
-## 👤 Author
-
-**Rahul Singh**  
-GitHub: [@RsRsRahul](https://github.com/RsRsRahul)
-
-## 🙏 Acknowledgments
-
-- **Salesforce** for CodeT5 model
-- **CodeSearchNet** dataset creators
-- **Hugging Face** for transformer models and tools
-- **PyTorch** team for deep learning framework
-
-## 📞 Support
-
-For issues, questions, or suggestions:
-1. Open an issue on GitHub
-2. Check existing documentation
-3. Review notebook comments for implementation details
-
 ---
 
 **Last Updated**: December 2025
+
 
